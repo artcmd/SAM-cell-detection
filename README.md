@@ -1,2 +1,6 @@
 # SAM-cell-detection
-SAM on medical images based on https://github.com/facebookresearch/segment-anything
+
+[SAM](https://github.com/facebookresearch/segment-anything) on medical images
+
+* cell detection
+* cell segmentation
